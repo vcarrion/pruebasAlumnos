@@ -1,1 +1,8 @@
-Hola.
+Hola. Un token no fungible (TNF, también conocido por la sigla NFT, en inglés:
+Non-Fungible Token) o vale no fungible es un activo digital encriptado.
+ Se trata de un tipo especial de token criptográfico que representa algo único.
+Los tókenes no fungibles no son, por tanto, intercambiables de forma idéntica.
+Esto contrasta con criptomonedas como el Bitcoin, y muchos tókenes de red o de
+utilidad que son fungibles por naturaleza.5​ Las 4 principales características
+de los NFT es que son únicos, indivisibles, transferibles y con la capacidad de
+demostrar su escasez.
